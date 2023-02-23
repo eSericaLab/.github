@@ -39,5 +39,5 @@
 - 首页增加feature游戏打字效果
 - 用户面板快捷菜单增加tips
 - 为保证未来上线时的访问速度，从DigitalOcean迁移至阿里云。并做了on push @main自动化部署。
-- 域名备案，和部署SSL证书，国内域名eserica.cn上线啦！
+- 域名备案，和部署SSL证书，国内域名www.eserica.cn上线啦！
 - 更多i18n本地化工作
